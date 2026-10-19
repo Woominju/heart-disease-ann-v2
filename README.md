@@ -7,7 +7,7 @@ Second iteration of the heart-disease ANN assignment (November 2023), with furth
 | `ANN_2nd_step.ipynb` | Preprocessing, standardization and ANN training (TensorFlow/Keras) |
 | `heart.csv` | UCI heart disease data: 13 clinical features and a 0/1 `target` |
 
-The first version lives in [11-19-deep-learning-heart](https://github.com/Woominju/11-19-deep-learning-heart).
+The first version lives in [heart-disease-ann](https://github.com/Woominju/heart-disease-ann).
 
 ## Run
 Open the notebook in Google Colab with the badge at the top of the file.
