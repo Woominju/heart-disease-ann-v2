@@ -1,4 +1,4 @@
-# Heart Disease Data Set — ANN, Second Iteration
+# Heart Disease Data Set: ANN, Second Version
 
 Second iteration of the heart-disease ANN assignment (November 2023), with further preprocessing and model experiments.
 
